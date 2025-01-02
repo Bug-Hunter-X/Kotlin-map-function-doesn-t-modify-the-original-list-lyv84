@@ -1,0 +1,1 @@
+This repository demonstrates a common misconception about the `map` function in Kotlin. The `map` function does not modify the original list; instead, it returns a new list containing the transformed elements.  The example code showcases this behavior and includes a solution to illustrate how to modify the original list if needed.
